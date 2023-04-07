@@ -193,3 +193,13 @@ The script was developed using Python version **3.9.13**
 <br>
 
 In the future, we can further improve the performance of the model by using data augmentation and hyperparameter tuning. We can also explore other pre-trained models like InceptionV3 and EfficientNet, which might give better performance. Furthermore, we can use object detection models to detect the presence of masks and other objects in the image.
+
+<br>
+
+## FQS
+
+<br>
+
+#### How to get the pre-trained models? <br> <br>
+Download the **resnet.h5** model from Google Drive from this [link](https://drive.google.com/drive/folders/1rxJ1MtocQF5zaTAGKL8HxJ6_ajYlqhAi) <br>
+Download the **tf_model.h5** model from Google Drive from this [link](https://drive.google.com/drive/folders/1rxJ1MtocQF5zaTAGKL8HxJ6_ajYlqhAi)
