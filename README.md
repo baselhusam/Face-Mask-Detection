@@ -1,5 +1,6 @@
 # **Face Mask Classifier:**
 
+<br>
 
 ## Approach
 
