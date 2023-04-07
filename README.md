@@ -145,22 +145,22 @@ pip install -r requirements.txt
 
 3. To train and save the ResNet50 model, run the command 
 ```python
-python resnet_train.py training_data_path validation_data_path epochs_number save_model_name
+python resnet_train.py <training_data_path> <validation_data_path> <epochs_number> <save_model_name>
 ```
 
 4. To train and save the custom TensorFlow model, run the command 
 ``` python 
-tf_model_train.py training_data_path validation_data_path epochs_number save_model_name
+tf_model_train.py <training_data_path> <validation_data_path> <epochs_number> <save_model_name>
 ```
 
 5. To evaluate the model performance on test data, run the command 
 ```python 
-evaluate.py path_to_test_set_folder path_to_the saved_model
+evaluate.py <path_to_test_set_folder> <path_to_the_saved_model>
 ```
 
 6. To test the model on a single image, run the command 
 ```python
-python test.py img_path model_path
+python test.py <img_path> <model_path>
 ```
 
 <br>
